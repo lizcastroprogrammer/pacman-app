@@ -1,9 +1,9 @@
 # Pacman App
 
-####Description
+## Description
 
-####How To Run
+## How To Run
 
-####Future Improvements
+## Future Improvements
 
-####License
+## License
